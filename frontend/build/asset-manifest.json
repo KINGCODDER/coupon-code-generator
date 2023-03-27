@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52f58195.css",
+    "main.js": "/static/js/main.a420b587.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/lamborghini.png": "/static/media/lamborghini.1a9a13a1537d09e798fe.png",
+    "index.html": "/index.html",
+    "main.52f58195.css.map": "/static/css/main.52f58195.css.map",
+    "main.a420b587.js.map": "/static/js/main.a420b587.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52f58195.css",
+    "static/js/main.a420b587.js"
+  ]
+}
