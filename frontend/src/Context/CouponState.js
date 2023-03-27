@@ -8,7 +8,7 @@ const CouponState = (props) => {
   const [loading, setLoading] = useState();
 
   const [loadingAdmin, setLoadingAdmin] = useState(true);
-  const host = "http://localhost:3405";
+  const host = "https://coupon-code-generator-git-main-kingcodder.vercel.app/";
 
   const validateCoupon = async (code) => {
     try {
