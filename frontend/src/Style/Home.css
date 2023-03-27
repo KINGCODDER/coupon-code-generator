@@ -1,0 +1,57 @@
+.text-1 {
+  font-family: "Oswald", sans-serif;
+  font-size: 52px;
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.nav-bar h1 {
+  color: white;
+  rotate: -5deg;
+  text-shadow: 8px 8px 2px #000000;
+  cursor: pointer;
+}
+
+.nav-bar h1:hover {
+  transition: 0.5s;
+  rotate: 0deg;
+}
+
+.product-details {
+  font-size: 40px;
+  cursor: pointer;
+}
+
+.text-styling:hover {
+  text-shadow: 8px 8px 2px #000000;
+  transition: 0.8s;
+  rotate: -5deg;
+}
+
+.btn-custom {
+  font-size: 25px;
+  background-color: white;
+}
+
+.btn-custom:hover {
+  transition: 0.5s;
+  box-shadow: 8px 8px 2px black;
+}
+
+.disable-link {
+  pointer-events: none;
+  opacity: 0.8;
+}
+
+@media (max-width: 769px) {
+  .image-container img {
+    width: 100%;
+  }
+}
+
+@media (max-width: 500px) {
+  .product-details {
+    font-size: 27px;
+  }
+}

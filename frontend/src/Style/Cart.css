@@ -1,0 +1,45 @@
+.product-checkout .product-name {
+    font-size: 35px;
+}
+
+.product-checkout {
+    cursor: pointer;
+}
+
+.product-checkout .product-name:hover,
+.product-checkout .product-price:hover {
+    rotate: none;
+}
+
+.m-full {
+    margin: auto;
+}
+
+.calculations {
+    font-size: 22px;
+}
+
+.border-bottom-light {
+    border-bottom: 3px solid white;
+}
+
+.hide {
+    display: none !important;
+}
+
+.field .btn-custom {
+    font-size: 18px;
+}
+
+.error-message {
+    font-size: 15px;
+    color: black;
+}
+
+#exampleModal .modal-title {
+    color: green;
+}
+
+#exampleModal .modal-header {
+    background-color: lightgreen;
+}

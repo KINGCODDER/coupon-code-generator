@@ -1,0 +1,8 @@
+.table {
+    color: white;
+}
+
+.table thead tr th {
+    font-size: 18px !important;
+    font-weight: 500;
+}
